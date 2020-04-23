@@ -2,7 +2,7 @@
     "tutorials": [
         {
             "number": "0",
-            "filename": "ReadMe.md",
+            "filename": "README.md",
             "title": "Read Me First",
             "description": "Step-by-step workshop instructions",
             "partnumber": "Ennnnn_01",
